@@ -11,7 +11,7 @@
 ```
 ./run_checkunfold.sh
 ```
-##Make the plots
+## Make the plots
 ```
 ./run_plot.sh
 ```
